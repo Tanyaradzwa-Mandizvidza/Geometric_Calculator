@@ -16,7 +16,7 @@ To run the Geometric Calculator on your local machine, follow these steps:
 
 1. Clone this repository to your computer.
 2. Open a terminal or command prompt in the project directory.
-3. Run the script using the command `python area_calculator.py`.
+3. Run the script using the command `python Calculator.py`.
 
 ## Contributors
 [Tanyaradzwa Mandizvidza] (https://github.com/Tanyaradzwa-Mandizvidza): Project Developer
