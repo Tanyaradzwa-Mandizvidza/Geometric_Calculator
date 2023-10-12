@@ -1,4 +1,4 @@
-# Geometric_Calculator Development
+# Geometric_Calculator Production
 A Python tool to calculate areas and perimeters/circumferences for rectangles and circles Simple and versatile.
 
 The Geometric Calculator is a Python program that simplifies the process of calculating the area and, when applicable, the perimeter or circumference of geometric shapes such as rectangles and circles. This tool is designed to be simple and versatile, making it useful for both students studying geometry and individuals who need quick and accurate measurements for practical applications.
